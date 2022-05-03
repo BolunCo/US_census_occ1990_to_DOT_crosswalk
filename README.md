@@ -2,29 +2,29 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 This repository contains:
-1. A brief introduction of the occupation classification system.
-2. An overview of known crosswalks
-3. Raw data
-4. Links to where you can  ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
-5. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
-6. [A badge](#badge) to point to this spec.
-7. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
-
+1. A brief introduction of .
+2. An illustration of known crosswalks.
+3. Detailed exlanation of how each crosswalk is obtained/built. 
 
 ## Table of Contents
 - [Background](#background)
-- [Census Overview](#census-overview)
+- [Crosswalk Overview](#crosswalk-overview)
 ## Background
 Blabla
 
 
-## Census Overview
+## Crosswalk Overview
+The graph below shows the quality and original source of each crosswalk.
+
 <img src="/src/crosswalk.png" alt="Crosswalk Overview"/>
 
- ### Source:
+ ### A simple m:n example
+ Depending on the situation, m:n cases could be a potential obstacle for analysis. In the below example, we do not know which census occupation will 0-50.57 end up with if the  
  
- ### m:n match example
  
+ 
+ 
+## Crosswalk in Detail
  
 
 
