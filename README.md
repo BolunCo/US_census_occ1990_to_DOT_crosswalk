@@ -19,7 +19,7 @@ Blabla
 
 
 ## Census Overview
-<img src="/src/overview.jpg" alt="Crosswalk Overview" width="200"/>
+<img src="/src/crosswalk.png" alt="Crosswalk Overview"/>
 
  ### Source:
  
@@ -33,5 +33,4 @@ Blabla
 ## Reference
 
 
-## People
 
