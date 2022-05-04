@@ -2,6 +2,24 @@
 
 Linking [DoT](https://en.wikipedia.org/wiki/Dictionary_of_Occupational_Titles) occupations to census occupations.
 
+**DoT Handbook**:
+
+1st Edition: 1939?-1949
+
+2nd Edition: 1949 -1963
+
+3rd Edition: 1965 -1974
+
+4th Edition: 1976 -1990
+
+4th Rev    : 1991 -1998
+
+Since 2000, the hanbook uses O\*Net definition instead of DoT definition
+
+**Census occupation**:
+
+The occupation classification is different in each census. OCC1950 and OCC1990 are the two consistent category systems that [Census Bureau](https://usa.ipums.org/usa/resources/chapter4/OCCBLS_paper.pdf) created for long-run analysis.
+
 ## Crosswalk Overview
 The graph below shows the original source and quality of each known crosswalk.
 
