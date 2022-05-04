@@ -9,9 +9,9 @@ This repository contains:
 ## Table of Contents
 - [Background](#background)
 - [Crosswalk Overview](#crosswalk-overview)
+ 
 ## Background
-Blabla
-
+DoT([Dictionary of Occupational Titles](https://en.wikipedia.org/wiki/Dictionary_of_Occupational_Titles)) provides useful information about each occupation such as the definition and characteristics.  
 
 ## Crosswalk Overview
 The graph below shows the original source and quality of each crosswalk.
