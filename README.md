@@ -3,7 +3,7 @@
 Linking [DoT](https://en.wikipedia.org/wiki/Dictionary_of_Occupational_Titles) occupations to census occupations.
 
 ## Crosswalk Overview
-The graph below shows the original source and quality of each crosswalk.
+The graph below shows the original source and quality of each known crosswalk.
 
 <img src="/src/crosswalk.png" alt="Crosswalk Overview"/>
 
