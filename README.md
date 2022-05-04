@@ -23,8 +23,10 @@ WidCenter crosswalks can be accessed from [WidCenter-Legacy Crosswalks](https://
 
 IPUMS/BLS crosswalks can be found in [IPUMS-Crosswalks](https://usa.ipums.org/usa/volii/occ_ind.shtml).
 
-DoT crosswalks were obtained from different sources
-
+DoT crosswalks were obtained from multiple sources:
+ * Supplyment to DoT 
+ * OCRed from digitized sources.
+ * Other's effort (DoT 3rd edition-4th, 4th-4th rev are based on [Jeffrey Lin](https://github.com/jeffrlin/new-work))
  ### A simple m:n example
  Depending on the situation, m:n cases could be a potential obstacle for analysis. In the below example, we do not know which census occupation will 0-50.57 end up with without knowing the occupation title.
  
