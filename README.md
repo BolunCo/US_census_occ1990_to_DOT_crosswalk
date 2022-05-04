@@ -18,6 +18,13 @@ The graph below shows the quality and original source of each crosswalk.
 
 <img src="/src/crosswalk.png" alt="Crosswalk Overview"/>
 
+
+WidCenter crosswalks can be accessed from [WidCenter-Legacy Crosswalks](https://www.widcenter.org/document/legacy-crosswalks/).
+
+IPUMS/BLS crosswalks can be found in [IPUMS-Crosswalks](https://usa.ipums.org/usa/volii/occ_ind.shtml).
+
+DoT crosswalks were obtained from different sources
+
  ### A simple m:n example
  Depending on the situation, m:n cases could be a potential obstacle for analysis. In the below example, we do not know which census occupation will 0-50.57 end up with without knowing the occupation title.
  
