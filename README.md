@@ -29,7 +29,7 @@ The graph below shows the original source and quality of each crosswalk.
  ### A simple m:n example
  Depending on the situation, m:n cases could be a problem. Going from 2nd edition DoT to the 4th edition or census OCC1990 is difficult because both 2nd-3rd and 3rd(at 6-digit level)-4th are m:n. 
  
- <img src="/src/m_to_n_example.png" alt="mn_problem"/>
+ <img src="/src/m_n_problem.png" alt="mn_problem"/>
  
  
  
