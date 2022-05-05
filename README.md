@@ -1,6 +1,6 @@
 # US Census Occupation to DOT crosswalk
 
-Linking [DoT](https://en.wikipedia.org/wiki/Dictionary_of_Occupational_Titles) occupations to census occupations.
+Linking [DoT](https://en.wikipedia.org/wiki/Dictionary_of_Occupational_Titles) occupations to [census](https://usa.ipums.org/usa-action/variables/OCC#codes_section) occupations.
 
 **DoT Handbook**:
 
